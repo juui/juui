@@ -40,7 +40,6 @@ jspm_packages
 coverage/
 dist/
 node_modules/
-yarn.lock
 
 # Webstorm
 .idea/**/*
